@@ -9564,7 +9564,11 @@
       {
         "Twitter": {
           "https://twitter.com/": [
-            "ads-twitter.com",
+            "ads-x.com",
+            "t.co"
+          ],
+          "https://x.com/": [
+            "ads-x.com",
             "t.co"
           ]
         }
@@ -14462,7 +14466,12 @@
         "Twitter": {
           "https://twitter.com/": [
             "twimg.com",
-            "twitter.com",
+            "x.com",
+            "twitter.jp"
+          ],
+          "https://x.com/": [
+            "twimg.com",
+            "x.com",
             "twitter.jp"
           ]
         }
